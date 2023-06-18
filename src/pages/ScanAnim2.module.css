@@ -1,0 +1,220 @@
+.img79301Icon {
+  position: absolute;
+  top: 0;
+  left: 37px;
+  width: 240px;
+  height: 418px;
+  object-fit: cover;
+}
+.menubar {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-xs) var(--br-xs) 0 0;
+  background-color: var(--color-tan);
+}
+.blockingBar,
+.collection1Icon,
+.collectionclick1Icon {
+  position: absolute;
+  height: 100%;
+  width: 76.68%;
+  top: 0;
+  right: 11.5%;
+  bottom: 0;
+  left: 11.82%;
+}
+.collection1Icon,
+.collectionclick1Icon {
+  width: 44.74%;
+  right: 55.26%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.collectionclick1Icon {
+  height: 103.54%;
+  width: 44.62%;
+  right: -3.19%;
+  bottom: -3.54%;
+  left: 58.57%;
+  display: none;
+}
+.collectionButton {
+  position: absolute;
+  height: 87.04%;
+  width: 33.23%;
+  top: 7.41%;
+  right: 23.96%;
+  bottom: 5.56%;
+  left: 42.81%;
+}
+.scan1Icon,
+.scanclick1Icon {
+  position: absolute;
+  height: 100%;
+  width: 43.24%;
+  top: 0;
+  bottom: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.scan1Icon {
+  right: 56.76%;
+  left: 0;
+  display: none;
+}
+.scanclick1Icon {
+  right: 0;
+  left: 56.76%;
+  border-radius: var(--br-4xs);
+}
+.scanButton {
+  position: absolute;
+  height: 87.04%;
+  width: 33.23%;
+  top: 7.41%;
+  right: 66.77%;
+  bottom: 5.56%;
+  left: 0;
+}
+.decks1Icon,
+.decksclicked1Icon {
+  position: absolute;
+  height: 100%;
+  width: 41.93%;
+  top: 0;
+  right: 58.07%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.decksclicked1Icon {
+  height: 99.15%;
+  width: 39.72%;
+  right: 8.16%;
+  bottom: 0.85%;
+  left: 52.13%;
+  display: none;
+}
+.decksButtonv2,
+.scanbarRegion {
+  position: absolute;
+  height: 87.04%;
+  width: 33.23%;
+  top: 7.41%;
+  right: 0;
+  bottom: 5.56%;
+  left: 66.77%;
+}
+.scanbarRegion {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+}
+.scanbarRegionv2 {
+  position: absolute;
+  top: 391px;
+  left: 0;
+  width: 314px;
+  height: 54px;
+}
+.scanstateoff1,
+.scanstateon1Icon {
+  position: absolute;
+  height: 100%;
+  width: 51.69%;
+  top: 0;
+  bottom: 0;
+}
+.scanstateoff1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  right: 48.31%;
+  left: 0;
+  background-image: url(/public/scanstateoff11@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.scanstateon1Icon {
+  right: 0;
+  left: 48.31%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  display: none;
+}
+.continousscanbutton {
+  position: absolute;
+  height: 12.55%;
+  width: 33.12%;
+  top: 69.59%;
+  right: 25.16%;
+  bottom: 17.86%;
+  left: 41.72%;
+}
+.camerabutton1Icon {
+  right: 49.15%;
+  left: 0;
+  display: none;
+}
+.camerabutton1Icon,
+.cameradisabled1Icon,
+.camerapressed1Icon {
+  position: absolute;
+  height: 100%;
+  width: 50.85%;
+  top: 0;
+  bottom: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.camerapressed1Icon {
+  right: 0;
+  left: 49.15%;
+  display: none;
+}
+.cameradisabled1Icon {
+  right: -48.73%;
+  left: 97.88%;
+}
+.camerabutton,
+.scancardstep {
+  position: absolute;
+  top: 337px;
+  left: 117px;
+  width: 71px;
+  height: 36px;
+}
+.scancardstep {
+  top: 0;
+  left: -37px;
+  width: 314px;
+  height: 445px;
+}
+.scananim2 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 441px;
+  overflow: hidden;
+}

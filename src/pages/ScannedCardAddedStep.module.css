@@ -1,0 +1,547 @@
+.bonepickerIcon,
+.scanstateoff1Icon,
+.scanstateon1Icon {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  width: 240px;
+  height: 416px;
+  object-fit: cover;
+}
+.scanstateoff1Icon,
+.scanstateon1Icon {
+  height: 100%;
+  width: 51.69%;
+  top: 0;
+  right: 48.31%;
+  bottom: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.scanstateon1Icon {
+  right: 0;
+  left: 48.31%;
+  display: none;
+}
+.continousscanbutton {
+  position: absolute;
+  height: 8.65%;
+  width: 28.75%;
+  top: 82.21%;
+  right: 9.17%;
+  bottom: 9.13%;
+  left: 62.08%;
+}
+.camerabutton1Icon,
+.cameradisabled1Icon,
+.camerapressed1Icon {
+  position: absolute;
+  height: 100%;
+  width: 50.85%;
+  top: 0;
+  right: 49.15%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.cameradisabled1Icon,
+.camerapressed1Icon {
+  right: 0;
+  left: 49.15%;
+  display: none;
+}
+.cameradisabled1Icon {
+  right: -48.73%;
+  left: 97.88%;
+}
+.camerabutton {
+  position: absolute;
+  top: 321px;
+  left: 92px;
+  width: 114px;
+  height: 57px;
+}
+.menubar,
+.picturetaken {
+  position: absolute;
+  top: 0;
+  left: 37px;
+  width: 240px;
+  height: 416px;
+}
+.menubar {
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-xs) var(--br-xs) 0 0;
+  background-color: var(--color-tan);
+}
+.blockingBar,
+.collection1Icon,
+.collectionclick1Icon {
+  position: absolute;
+  height: 100%;
+  width: 76.68%;
+  top: 0;
+  right: 11.5%;
+  bottom: 0;
+  left: 11.82%;
+}
+.collection1Icon,
+.collectionclick1Icon {
+  width: 44.74%;
+  right: 55.26%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.collectionclick1Icon {
+  height: 103.54%;
+  width: 44.62%;
+  right: -3.19%;
+  bottom: -3.54%;
+  left: 58.57%;
+  display: none;
+}
+.collectionButton {
+  position: absolute;
+  height: 87.04%;
+  width: 33.23%;
+  top: 7.41%;
+  right: 23.96%;
+  bottom: 5.56%;
+  left: 42.81%;
+}
+.scan1Icon,
+.scanclick1Icon {
+  position: absolute;
+  height: 100%;
+  width: 43.24%;
+  top: 0;
+  bottom: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.scan1Icon {
+  right: 56.76%;
+  left: 0;
+  display: none;
+}
+.scanclick1Icon {
+  right: 0;
+  left: 56.76%;
+  border-radius: var(--br-4xs);
+}
+.scanButton {
+  position: absolute;
+  height: 87.04%;
+  width: 33.23%;
+  top: 7.41%;
+  right: 66.77%;
+  bottom: 5.56%;
+  left: 0;
+}
+.decks1Icon,
+.decksclicked1Icon {
+  position: absolute;
+  height: 100%;
+  width: 41.93%;
+  top: 0;
+  right: 58.07%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.decksclicked1Icon {
+  height: 99.15%;
+  width: 39.72%;
+  right: 8.16%;
+  bottom: 0.85%;
+  left: 52.13%;
+  display: none;
+}
+.decksButtonv2,
+.scanbarRegion {
+  position: absolute;
+  height: 87.04%;
+  width: 33.23%;
+  top: 7.41%;
+  right: 0;
+  bottom: 5.56%;
+  left: 66.77%;
+}
+.scanbarRegion {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+}
+.background1,
+.scanbarRegionv2 {
+  position: absolute;
+  top: 396px;
+  left: 0;
+  width: 314px;
+  height: 54px;
+}
+.background1 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  background-color: var(--color-gray-400);
+}
+.cardselectChild,
+.cardselectItem {
+  position: absolute;
+  transform: rotate(-45deg);
+  transform-origin: 0 0;
+}
+.cardselectChild {
+  height: 70.71%;
+  width: 70.71%;
+  top: 50%;
+  right: 29.29%;
+  bottom: -20.71%;
+  left: 0;
+  border-radius: var(--br-11xs);
+  background-color: var(--color-tan);
+}
+.cardselectItem {
+  height: 50.56%;
+  width: 48.71%;
+  top: 48.26%;
+  right: 36.56%;
+  bottom: 1.19%;
+  left: 14.73%;
+  background-color: var(--color-gray-200);
+}
+.cardselect,
+.rectangleDiv {
+  position: absolute;
+  height: 3.55%;
+  width: 6.67%;
+  top: 57.65%;
+  right: 66.67%;
+  bottom: 38.8%;
+  left: 26.67%;
+}
+.rectangleDiv {
+  height: 50.56%;
+  width: 48.71%;
+  top: 48.26%;
+  right: 36.56%;
+  bottom: 1.19%;
+  left: 14.73%;
+  background-color: var(--color-tan);
+  transform: rotate(-45deg);
+  transform-origin: 0 0;
+}
+.cardselect1,
+.cardselect2,
+.cardselect3 {
+  position: absolute;
+  height: 3.55%;
+  width: 6.67%;
+  top: 57.65%;
+  right: 53.33%;
+  bottom: 38.8%;
+  left: 40%;
+}
+.cardselect2,
+.cardselect3 {
+  right: 40%;
+  left: 53.33%;
+}
+.cardselect3 {
+  right: 26.67%;
+  left: 66.67%;
+}
+.addCardTo,
+.menubar1 {
+  position: absolute;
+  top: 0;
+}
+.menubar1 {
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-tan);
+}
+.addCardTo {
+  height: 98.39%;
+  width: 85.09%;
+  left: 3.51%;
+  display: flex;
+  align-items: center;
+}
+.expand1Icon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.dropdown,
+.dropdownArrow {
+  position: absolute;
+  height: 78.71%;
+  width: 8.77%;
+  top: 11.81%;
+  right: 2.63%;
+  bottom: 9.48%;
+  left: 88.6%;
+}
+.dropdown {
+  height: 3.33%;
+  width: 55.83%;
+  top: 62.53%;
+  right: 21.67%;
+  bottom: 34.15%;
+  left: 22.5%;
+}
+.carddescbackgroundvv2 {
+  position: absolute;
+  top: 0;
+  left: 37px;
+  width: 240px;
+  height: 451px;
+}
+.bonepickerSkirge1Icon {
+  position: absolute;
+  height: 47.67%;
+  width: 49.04%;
+  top: 9.53%;
+  right: 25.48%;
+  bottom: 42.79%;
+  left: 25.48%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.descriptionPopChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gray-200);
+}
+.textDescribingThis,
+.title {
+  position: absolute;
+  width: 81.19%;
+  top: 5.56%;
+  left: 14.36%;
+  display: inline-block;
+}
+.textDescribingThis {
+  width: 80.69%;
+  top: 31.48%;
+  left: 14.85%;
+  font-size: var(--font-size-4xs);
+}
+.flyingDesc1Icon {
+  position: absolute;
+  height: 44.44%;
+  width: 11.88%;
+  top: 5.56%;
+  right: 86.63%;
+  bottom: 50%;
+  left: 1.49%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.descriptionPop {
+  position: absolute;
+  top: 315px;
+  left: 57px;
+  width: 202px;
+  height: 54px;
+  font-size: var(--font-size-xs);
+  color: var(--color-tan);
+}
+.cardeffecticonChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-11xs);
+  background-color: var(--color-gray-500);
+}
+.flyingIcon1 {
+  position: absolute;
+  height: 82.35%;
+  width: 82.35%;
+  top: 5.88%;
+  right: 11.76%;
+  bottom: 11.76%;
+  left: 5.88%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.addButton,
+.cardeffecticon {
+  position: absolute;
+  top: 241px;
+  left: 80px;
+  width: 17px;
+  height: 17px;
+}
+.addButton {
+  top: 368px;
+  left: 129px;
+  width: 57px;
+  height: 56px;
+}
+.blockingBar1,
+.menubar2 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.menubar2 {
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-xs) var(--br-xs) 0 0;
+  background-color: var(--color-gray-200);
+}
+.blockingBar1 {
+  top: 100%;
+  right: -100%;
+  bottom: -100%;
+  left: 100%;
+  transform: rotate(-180deg);
+  transform-origin: 0 0;
+}
+.adding {
+  font-family: var(--font-maven-pro);
+}
+.adding1ToContainer1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.adding1ToContainer {
+  position: absolute;
+  width: 79.58%;
+  top: 25%;
+  left: 5.83%;
+  font-size: var(--font-size-sm);
+  color: var(--color-sienna);
+  text-align: center;
+  display: flex;
+  align-items: center;
+}
+.dropbutton2,
+.titlebannerv2 {
+  cursor: pointer;
+  position: absolute;
+}
+.dropbutton2 {
+  height: 75%;
+  width: 10%;
+  top: 12.5%;
+  right: 4.58%;
+  bottom: 12.5%;
+  left: 85.42%;
+}
+.titlebannerv2 {
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 0;
+  left: 37px;
+  width: 240px;
+  height: 32px;
+}
+.add1Icon,
+.added1 {
+  position: absolute;
+  height: 100%;
+  width: 50%;
+  top: 0;
+  bottom: 0;
+}
+.add1Icon {
+  right: 50%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  display: none;
+}
+.added1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  right: 0;
+  left: 50%;
+  background-image: url(/public/added-11@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.addButton1 {
+  position: absolute;
+  top: 379px;
+  left: 74px;
+  width: 113px;
+  height: 60px;
+}
+.cardpageaddedstep {
+  position: absolute;
+  top: -1px;
+  left: -37px;
+  width: 314px;
+  height: 451px;
+}
+.scannedcardaddedstep {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 450px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-4xs);
+  color: var(--color-gray-300);
+  font-family: var(--font-maven-pro);
+}

@@ -1,0 +1,232 @@
+.bonepickerIcon,
+.scanstateoff1Icon,
+.scanstateon1Icon {
+  position: absolute;
+  top: 0;
+  left: 37px;
+  width: 240px;
+  height: 416px;
+  object-fit: cover;
+}
+.scanstateoff1Icon,
+.scanstateon1Icon {
+  height: 100%;
+  width: 51.69%;
+  right: 48.31%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.scanstateon1Icon {
+  right: 0;
+  left: 48.31%;
+  display: none;
+}
+.continousscanbutton {
+  position: absolute;
+  height: 8%;
+  width: 21.97%;
+  top: 76%;
+  right: 18.79%;
+  bottom: 16%;
+  left: 59.24%;
+}
+.camerabutton1,
+.cameradisabled1Icon,
+.camerapressed1Icon {
+  position: absolute;
+  height: 100%;
+  width: 50.85%;
+  top: 0;
+  bottom: 0;
+}
+.camerabutton1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  right: 49.15%;
+  left: 0;
+  background-image: url(/public/camerabutton1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.cameradisabled1Icon,
+.camerapressed1Icon {
+  right: 0;
+  left: 49.15%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  display: none;
+}
+.cameradisabled1Icon {
+  right: -48.73%;
+  left: 97.88%;
+}
+.camerabutton {
+  position: absolute;
+  top: 321px;
+  left: 129px;
+  width: 114px;
+  height: 57px;
+}
+.blockingBar,
+.collection1,
+.menubar {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+}
+.menubar {
+  width: 100%;
+  right: 0;
+  left: 0;
+  border-radius: var(--br-xs) var(--br-xs) 0 0;
+  background-color: var(--color-tan);
+}
+.blockingBar,
+.collection1 {
+  width: 76.68%;
+  right: 11.5%;
+  left: 11.82%;
+}
+.collection1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 44.74%;
+  right: 55.26%;
+  left: 0;
+  background-image: url(/public/collection-11@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.collectionclick1Icon {
+  position: absolute;
+  height: 103.54%;
+  width: 44.62%;
+  top: 0;
+  right: -3.19%;
+  bottom: -3.54%;
+  left: 58.57%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  display: none;
+}
+.collectionButton {
+  position: absolute;
+  height: 87.04%;
+  width: 33.23%;
+  top: 7.41%;
+  right: 23.96%;
+  bottom: 5.56%;
+  left: 42.81%;
+}
+.scan1Icon,
+.scanclick1Icon {
+  position: absolute;
+  height: 100%;
+  width: 43.24%;
+  top: 0;
+  bottom: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.scan1Icon {
+  right: 56.76%;
+  left: 0;
+  display: none;
+}
+.scanclick1Icon {
+  right: 0;
+  left: 56.76%;
+  border-radius: var(--br-4xs);
+}
+.decks1,
+.scanButton {
+  position: absolute;
+  height: 87.04%;
+  width: 33.23%;
+  top: 7.41%;
+  right: 66.77%;
+  bottom: 5.56%;
+  left: 0;
+}
+.decks1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  height: 100%;
+  width: 41.93%;
+  top: 0;
+  right: 58.07%;
+  bottom: 0;
+  background-image: url(/public/decks-12@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.decksclicked1Icon {
+  position: absolute;
+  height: 99.15%;
+  width: 39.72%;
+  top: 0;
+  right: 8.16%;
+  bottom: 0.85%;
+  left: 52.13%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  display: none;
+}
+.decksButtonv2,
+.scanbarRegion {
+  position: absolute;
+  height: 87.04%;
+  width: 33.23%;
+  top: 7.41%;
+  right: 0;
+  bottom: 5.56%;
+  left: 66.77%;
+}
+.scanbarRegion {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+}
+.picturestep1,
+.scanbarRegionv2 {
+  position: absolute;
+  top: 396px;
+  left: 0;
+  width: 314px;
+  height: 54px;
+}
+.picturestep1 {
+  top: 0;
+  left: -37px;
+  height: 450px;
+}
+.picturestep {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 450px;
+  overflow: hidden;
+}

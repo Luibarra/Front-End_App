@@ -1,0 +1,139 @@
+.blockingBar1,
+.homebarRegionv2 {
+  position: absolute;
+  top: 387px;
+  left: 0;
+  width: 280px;
+  height: 54px;
+}
+.blockingBar1 {
+  top: 49px;
+  left: 244px;
+  width: 248px;
+  height: 49px;
+  transform: rotate(-180deg);
+  transform-origin: 0 0;
+}
+.menubar {
+    width: 100%;
+    right: 0;
+    left: 0;
+    border-radius: var(--br-xs) var(--br-xs) 0 0;
+    background-color: var(--color-tan);
+  }
+  .blockingBar,
+  .menubar {
+    position: absolute;
+    height: 100%;
+    top: 0;
+    bottom: 0;
+  }
+  .settings1 {
+    position: absolute;
+    top: 54px;
+    left: 5px;
+    width: 230px;
+    height: 21px;
+  }
+  .settings1 {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-image: url(/public/settings1@3x.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+  }
+  .expand1Icon,
+  .settings {
+    position: absolute;
+    top: 26px;
+    left: 215px;
+    width: 20px;
+    height: 20px;
+  }
+  .expand1Icon {
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .dropdownArrow,
+  .profile1 {
+    position: absolute;
+    top: 6px;
+    left: 172px;
+    width: 36px;
+    height: 36px;
+  }
+  .profile1 {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-image: url(/public/profile1@3x.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+  }
+  .profile {
+    position: absolute;
+    top: 4px;
+    left: 215px;
+    width: 20px;
+    height: 20px;
+  }
+  .seperatingLineChild {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: var(--color-gray-300);
+  }
+  .seperatingLine {
+    position: absolute;
+    top: 49px;
+    left: 210px;
+    width: 49px;
+    height: 2px;
+    transform: rotate(-90deg);
+    transform-origin: 0 0;
+  }
+  .magicTheGathering {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    font-weight: 600;
+    display: inline-block;
+  }
+  .title {
+    position: absolute;
+    top: 12px;
+    left: 7px;
+    width: 163px;
+    height: 21px;
+  }

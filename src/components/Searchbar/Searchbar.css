@@ -1,0 +1,108 @@
+.searchbar1 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: var(--br-9xs);
+    background-color: var(--color-gray-300);
+  }
+  .search1 {
+    margin: 0;
+  }
+  .search {
+    border: 0;
+    background-color: transparent;
+    font-family: var(--font-maven-pro);
+    font-size: var(--font-size-xs);
+    position: absolute;
+    height: 100%;
+    width: 77.22%;
+    top: 0;
+    left: 1.94%;
+    color: var(--color-gray-100);
+    text-align: left;
+    display: inline-block;
+  }
+  .searchbar,
+  .searchbar2 {
+    position: absolute;
+    height: 78.46%;
+    width: 100%;
+    top: 10.77%;
+    right: 0;
+    bottom: 10.77%;
+    left: 0;
+  }
+  .searchbar2 {
+    height: 89.47%;
+    top: 5.26%;
+    bottom: 5.26%;
+    border-radius: 0 var(--br-9xs) var(--br-9xs) 0;
+    background-color: var(--color-tan);
+  }
+  .search1Icon {
+    position: absolute;
+    height: 100%;
+    width: 78.08%;
+    top: 0;
+    right: 10.96%;
+    bottom: 0;
+    left: 10.96%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .searchButton,
+  .searchbar3 {
+    position: absolute;
+    height: 87.69%;
+    width: 10.14%;
+    top: 6.15%;
+    right: 0;
+    bottom: 6.15%;
+    left: 89.86%;
+  }
+  .searchbar3 {
+    height: 78.46%;
+    width: 100%;
+    top: 10.77%;
+    bottom: 10.77%;
+    left: 0;
+    background-color: var(--color-tan);
+  }
+  .filter1Icon,
+  .filterList {
+    position: absolute;
+    height: 100%;
+    top: 0;
+    bottom: 0;
+  }
+  .filter1Icon {
+    width: 89.04%;
+    right: 5.48%;
+    left: 5.48%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .filterList {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+    width: 10.14%;
+    right: 10.83%;
+    left: 79.03%;
+  }
+  .searchbarRegion{
+    position: absolute;
+    top: 54px;
+    left: 5px;
+    width: 230px;
+    height: 21px;
+  }

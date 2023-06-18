@@ -1,0 +1,214 @@
+.bonepickerIcon,
+.scanstateoff1Icon,
+.scanstateon1Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 240px;
+  height: 416px;
+  object-fit: cover;
+}
+.scanstateoff1Icon,
+.scanstateon1Icon {
+  height: 100%;
+  width: 51.69%;
+  right: 48.31%;
+  bottom: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.scanstateon1Icon {
+  right: 0;
+  left: 48.31%;
+  display: none;
+}
+.continousscanbutton {
+  position: absolute;
+  height: 8.65%;
+  width: 28.75%;
+  top: 82.21%;
+  right: 9.17%;
+  bottom: 9.13%;
+  left: 62.08%;
+}
+.camerabutton1Icon,
+.cameradisabled1Icon,
+.camerapressed1Icon {
+  position: absolute;
+  height: 100%;
+  width: 50.85%;
+  top: 0;
+  bottom: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.camerabutton1Icon {
+  right: 49.15%;
+  left: 0;
+  display: none;
+}
+.cameradisabled1Icon,
+.camerapressed1Icon {
+  right: 0;
+  left: 49.15%;
+}
+.cameradisabled1Icon {
+  right: -48.73%;
+  left: 97.88%;
+  display: none;
+}
+.camerabutton {
+  position: absolute;
+  top: 321px;
+  left: 35px;
+  width: 114px;
+  height: 57px;
+}
+.menubar,
+.picturetaken {
+  position: absolute;
+  top: 0;
+  left: 37px;
+  width: 240px;
+  height: 416px;
+}
+.menubar {
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-xs) var(--br-xs) 0 0;
+  background-color: var(--color-tan);
+}
+.blockingBar,
+.collection1Icon,
+.collectionclick1Icon {
+  position: absolute;
+  height: 100%;
+  width: 76.68%;
+  top: 0;
+  right: 11.5%;
+  bottom: 0;
+  left: 11.82%;
+}
+.collection1Icon,
+.collectionclick1Icon {
+  width: 44.74%;
+  right: 55.26%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.collectionclick1Icon {
+  height: 103.54%;
+  width: 44.62%;
+  right: -3.19%;
+  bottom: -3.54%;
+  left: 58.57%;
+  display: none;
+}
+.collectionButton {
+  position: absolute;
+  height: 87.04%;
+  width: 33.23%;
+  top: 7.41%;
+  right: 23.96%;
+  bottom: 5.56%;
+  left: 42.81%;
+}
+.scan1Icon,
+.scanclick1Icon {
+  position: absolute;
+  height: 100%;
+  width: 43.24%;
+  top: 0;
+  bottom: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.scan1Icon {
+  right: 56.76%;
+  left: 0;
+  display: none;
+}
+.scanclick1Icon {
+  right: 0;
+  left: 56.76%;
+  border-radius: var(--br-4xs);
+}
+.scanButton {
+  position: absolute;
+  height: 87.04%;
+  width: 33.23%;
+  top: 7.41%;
+  right: 66.77%;
+  bottom: 5.56%;
+  left: 0;
+}
+.decks1Icon,
+.decksclicked1Icon {
+  position: absolute;
+  height: 100%;
+  width: 41.93%;
+  top: 0;
+  right: 58.07%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.decksclicked1Icon {
+  height: 99.15%;
+  width: 39.72%;
+  right: 8.16%;
+  bottom: 0.85%;
+  left: 52.13%;
+  display: none;
+}
+.decksButtonv2,
+.scanbarRegion {
+  position: absolute;
+  height: 87.04%;
+  width: 33.23%;
+  top: 7.41%;
+  right: 0;
+  bottom: 5.56%;
+  left: 66.77%;
+}
+.scanbarRegion {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+}
+.pictakenstep1,
+.scanbarRegionv2 {
+  position: absolute;
+  top: 396px;
+  left: 0;
+  width: 314px;
+  height: 54px;
+}
+.pictakenstep1 {
+  top: 0;
+  left: -37px;
+  height: 450px;
+}
+.pictakenstep {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 450px;
+  overflow: hidden;
+}

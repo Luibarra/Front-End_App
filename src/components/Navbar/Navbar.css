@@ -1,0 +1,151 @@
+.homebarRegionv2 {
+    position: absolute;
+    top: 387px;
+    left: 0;
+    width: 280px;
+    height: 54px;
+}
+.decksButtonv2,
+.homebarRegion {
+  position: absolute;
+  height: 84.71%;
+  width: 39%;
+  top: 7.06%;
+  right: 0;
+  bottom: 8.24%;
+  left: 61%;
+}
+.homebarRegion {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+}
+.scan1,
+.scanclick1Icon {
+  width: 43.24%;
+}
+.scan1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  right: 56.76%;
+  left: 0;
+  background-image: url(/public/scan1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.scanclick1Icon {
+  right: 0;
+  left: 56.76%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  display: none;
+}
+.collection1Icon,
+.scanButton {
+  position: absolute;
+  height: 87.06%;
+  width: 37.19%;
+  top: 5.88%;
+  right: 54.42%;
+  bottom: 7.06%;
+  left: 8.39%;
+}
+.collection1Icon {
+  height: 100%;
+  width: 44.74%;
+  top: 0;
+  right: 55.26%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  display: none;
+}
+.collectionclick1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 103.54%;
+  width: 44.62%;
+  top: 0;
+  right: -3.19%;
+  bottom: -3.54%;
+  left: 58.57%;
+  border-radius: var(--br-4xs);
+  background-image: url(/public/collectionclick1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.collectionButton,
+.decks1 {
+  position: absolute;
+  height: 87.06%;
+  width: 37.19%;
+  top: 5.88%;
+  right: 50.11%;
+  bottom: 7.06%;
+  left: 12.7%;
+}
+.decks1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  height: 100%;
+  width: 41.93%;
+  top: 0;
+  right: 58.07%;
+  bottom: 0;
+  left: 0;
+  background-image: url(/public/decks1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.decksclicked1Icon {
+  position: absolute;
+  height: 99.15%;
+  width: 39.72%;
+  top: 0;
+  right: 8.16%;
+  bottom: 0.85%;
+  left: 52.13%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  display: none;
+}
+.menubar {
+    width: 100%;
+    right: 0;
+    left: 0;
+    border-radius: var(--br-xs) var(--br-xs) 0 0;
+    background-color: var(--color-tan);
+  }
+  .blockingBar,
+  .menubar,
+  .scan1,
+  .scanclick1Icon {
+    position: absolute;
+    height: 100%;
+    top: 0;
+    bottom: 0;
+  }
+  .blockingBar {
+    width: 85.71%;
+    right: 14.29%;
+    left: 0;
+  }
